@@ -25,8 +25,8 @@ Load ggplot2 scale for fill aesthetic options based on EJ colours
 require(ggplot2)
 data(mtcars)
 
-ggplot(mtcars, aes(x=mpg, y=disp, size=hp)) +
-  geom_point(aes(col=as.factor(gear), size=cyl)) +
+ggplot(mpg, aes(x=hwy, y=disp, size=hp)) +
+  geom_point(aes(col=model) +
   scale_colour_EJ(palette="main", discrete=TRUE, reverse=TRUE)
 }
 \author{

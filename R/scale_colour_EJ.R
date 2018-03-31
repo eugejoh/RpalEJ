@@ -18,10 +18,9 @@
 #' require(ggplot2)
 #' data(mtcars)
 #'
-#' ggplot(mtcars, aes(x=hwy, y=disp, size=hp)) +
-#'   geom_point(aes(col=as.factor(cyl))) +
+#' ggplot(mpg, aes(x=hwy, y=disp, size=hp)) +
+#'   geom_point(aes(col=model) +
 #'   scale_colour_EJ(palette="main", discrete=TRUE, reverse=TRUE)
-
 scale_colour_EJ <- function(palette = "main", discrete = TRUE, reverse = FALSE, ...) {
   pal <- EJ_pal(palette = palette, reverse = reverse)
 
