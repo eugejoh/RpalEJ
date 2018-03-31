@@ -7,3 +7,4 @@ EJ_palettes <- list(
   `accent` = EJ_cols("faded navy", "cm shade", "purple", "forest", "epidermus"),
   `light` = EJ_cols("light green", "teal", "soft forest", "pink cabernet", "epidermus")
 )
+

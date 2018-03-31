@@ -21,3 +21,4 @@ EJ_pal <- function(palette = "primary", reverse = FALSE, ...) {
 
   colorRampPalette(pal, ...)
 }
+

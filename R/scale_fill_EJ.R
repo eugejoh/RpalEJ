@@ -29,3 +29,4 @@ scale_fill_EJ <- function(palette = "main", discrete = TRUE, reverse = FALSE, ..
     scale_fill_gradientn(colours = pal(256), ...)
   }
 }
+
