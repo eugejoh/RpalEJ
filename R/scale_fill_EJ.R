@@ -5,7 +5,8 @@
 #' @param reverse Boolean indicating whether the palette should be reversed
 #' @param ... Additional arguments to pass to discrete_scale() or scale_color_gradientn()
 #'
-#' @import ggplot2
+#' @importFrom ggplot2 scale_colour_manual scale_fill_gradientn discrete_scale
+#' @importFrom grDevices colorRampPalette
 #'
 #' @return vector() of selected colours based on palette argument
 #'

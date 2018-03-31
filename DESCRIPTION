@@ -8,9 +8,10 @@ Maintainer: Eugene Joh <ejoh@bu.edu>
 Description: This is a package containing custom palettes based on the [iWantHue webtool](http://tools.medialab.sciences-po.fr/iwanthue/) and colour mapping functions for ggplot2.
     This serves as a test case for both custom palette creation and package development with the intention of generating standarized visual settings for personal work.
 License: GPL-3
-Depends: R (>= 3.4.0), ggplot2
-Imports: ggplot2
-Suggests: dplyr
+Depends: R (>= 3.4.0)
+Imports: graphics, ggplot2, grDevices
+Suggests: dplyr, scales
 Encoding: UTF-8
 LazyData: true
 URL: http://incidental-ideas.org
+RoxygenNote: 6.0.1

@@ -1,11 +1,9 @@
-#' Colours and Palettes based on EJ
-options(devtools.desc.author = '"Eugene Joh <ejoh@bu.edu> [aut,cre]"')
-
+#' Palettes based on EJ
+#' @export
 
 EJ_palettes <- list(
   `main` = EJ_cols(),
-  `primary` = EJ_cols("killarney moss", "manitoulin sky"),
-  `accent` = EJ_cols("muskoka granite", "haliburton green", "early wheat", "temiskaming blue", "niagara cabernet"),
-  `dark` = EJ_cols("temiskaming blue", "early wheat"),
-  `light` = EJ_cols("killarney moss", "manitoulin sky", "haliburton green", "niagara cabernet", "muskoka granite")
+  `primary` = EJ_cols("faded navy", "cm shade"),
+  `accent` = EJ_cols("faded navy", "cm shade", "purple", "forest", "epidermus"),
+  `light` = EJ_cols("light green", "teal", "soft forest", "pink cabernet", "epidermus")
 )
