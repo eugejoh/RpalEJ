@@ -15,7 +15,6 @@
 #' @export
 #'
 #' @examples
-#' require(ggplot2)
 #' data(mtcars)
 #'
 #' ggplot(mpg, aes(x=hwy, y=disp, size=hp)) +

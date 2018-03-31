@@ -22,7 +22,6 @@ vector() of selected colours based on palette argument
 Load ggplot2 scale for colour aesthetic options based on EJ colours
 }
 \examples{
-require(ggplot2)
 data(mtcars)
 
 ggplot(mpg, aes(x=hwy, y=disp, size=hp)) +
