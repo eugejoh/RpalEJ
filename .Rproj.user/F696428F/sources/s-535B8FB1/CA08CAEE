@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522514389641.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CA08CAEE",
+    "lastKnownWriteTime" : 1522514413,
+    "last_content_update" : 1522514413386,
+    "path" : "~/GitHub/RpalEJ/R/EJ_pal.R",
+    "project_path" : "R/EJ_pal.R",
+    "properties" : {
+        "cursorPosition" : "2,58",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

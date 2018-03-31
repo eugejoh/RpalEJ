@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522514270920.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A9F225B8",
+    "lastKnownWriteTime" : 1522514506,
+    "last_content_update" : 1522514506773,
+    "path" : "~/GitHub/RpalEJ/R/EJ_colours.R",
+    "project_path" : "R/EJ_colours.R",
+    "properties" : {
+        "cursorPosition" : "1,35",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

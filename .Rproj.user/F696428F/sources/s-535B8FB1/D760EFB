@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522514468717.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4211511886",
+    "id" : "D760EFB",
+    "lastKnownWriteTime" : 1522514500,
+    "last_content_update" : 1522514500879,
+    "path" : "~/GitHub/RpalEJ/R/EJ_palettes.R",
+    "project_path" : "R/EJ_palettes.R",
+    "properties" : {
+        "cursorPosition" : "0,35",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
