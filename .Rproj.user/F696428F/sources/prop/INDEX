@@ -1,5 +1,4 @@
 ~%2FGitHub%2FRpalEJ%2FDESCRIPTION="89FE9A77"
-~%2FGitHub%2FRpalEJ%2FNAMESPACE="2B34A4C6"
 ~%2FGitHub%2FRpalEJ%2FR%2FEJ_colours.R="487D7DBD"
 ~%2FGitHub%2FRpalEJ%2FR%2FEJ_cols.R="953922FB"
 ~%2FGitHub%2FRpalEJ%2FR%2FEJ_cols_palettes.R="83CB399A"
@@ -8,5 +7,8 @@
 ~%2FGitHub%2FRpalEJ%2FR%2Fhello.R="DB748015"
 ~%2FGitHub%2FRpalEJ%2FR%2Fscale_colour_EJ.R="7DEA1360"
 ~%2FGitHub%2FRpalEJ%2FR%2Fscale_fill_EJ.R="49A8F34D"
+<<<<<<< HEAD
 ~%2FGitHub%2FRpalEJ%2Fman%2FEJ_colours.Rd="2294FFA0"
 ~%2FGitHub%2FRpalEJ%2Ftests%2Ftestthat.R="47E2CA88"
+=======
+>>>>>>> parent of 98cbe29... package check

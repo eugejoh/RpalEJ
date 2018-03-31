@@ -17,9 +17,11 @@
 #' @examples
 #' data(mtcars)
 #'
-#' ggplot(mpg, aes(x=hwy, y=disp, size=hp)) +
-#'   geom_point(aes(col=model) +
+#' data(mtcars)
+#' ggplot(mtcars, aes(x=wt,y=disp, col=as.factor(gear), size=mpg)) +
+#'   geom_point() +
 #'   scale_colour_EJ(palette="main", discrete=TRUE, reverse=TRUE)
+#'
 scale_fill_EJ <- function(palette = "main", discrete = TRUE, reverse = FALSE, ...) {
   pal <- EJ_pal(palette = palette, reverse = reverse)
 
@@ -29,4 +31,3 @@ scale_fill_EJ <- function(palette = "main", discrete = TRUE, reverse = FALSE, ..
     scale_fill_gradientn(colours = pal(256), ...)
   }
 }
-

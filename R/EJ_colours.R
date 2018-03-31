@@ -11,5 +11,4 @@ EJ_colours <- c(
   `pink cabernet` = "#c7b4cf",
   `forest` = "#54634a",
   `epidermus` = "#d5af9a"
-  )
-
+)

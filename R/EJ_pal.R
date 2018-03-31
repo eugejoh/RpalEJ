@@ -1,3 +1,4 @@
+
 #' Return function to interpolate a EJ colour palette
 #'
 #' @param palette Character name of palette in EJ_palettes
@@ -21,4 +22,3 @@ EJ_pal <- function(palette = "primary", reverse = FALSE, ...) {
 
   colorRampPalette(pal, ...)
 }
-
